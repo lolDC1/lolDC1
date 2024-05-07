@@ -10,7 +10,7 @@ I'm just your average dev navigating through the labyrinth of containers, clouds
 
 Need a lifeline in the sea of DevOps chaos? Dive into my "Cheatsheets" repository for handy guides, quick fixes, and sanity-saving snippets. It's the lifebuoy you never knew you needed!
 
-[My Cheatsheets Repo]https://github.com/lolDC1/cheatsheets) 
+[My Cheatsheets Repo](https://github.com/lolDC1/cheatsheets) 
 
 ## 📱 Let's Connect!
 
